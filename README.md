@@ -42,15 +42,21 @@ Here are the key aspects of the project and our contributions:
 
 - **Logic Implementation:** Using C# scripts in Unity, we implemented the logic for the Quiz application and Image detection. This included the display of questions, verification of answers, scoring mechanisms, and procedures for ending the quiz.
 
-## Video Demonstration of Quiz Aspect 
-![Alt text](media/Quiz.mov)
+## Video Demonstration of Quiz Aspect
+![Vid Quiz](media/Quiz.mov)
+
+https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/76918821/2cfbce47-615f-4c23-a47c-a2798cae943a
+ 
 
 ## Video Demonstration of Image Detection Aspect
-![Alt text](media/Image_detection_demonstration.mp4)
+![Vid Detect](media/Image_detection_demonstration.mp4)
+
+https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/76918821/051dc6e8-7143-4725-976e-c956f4d78fb7
+
 
 
 ## Poster Presentation 
 
 ![Alt text](media/Research_Poster1024_1.png)
 
-This was my first time working on an AR project, and I had a lot of fun working on it. I learned a lot about AR, and I hope to work on more AR projects in the future. The previous MURI team also worked on this project and made significant progress, but the source code wasn't available to us and was lost in the process. So, we had to start from scratch. I hope that the next MURI team will be able to build on top of our work and make even more progress on this project. 
+This was my first time working on an AR project and a research project, and I had a lot of fun. I learned a lot about AR, and I hope to work on more AR projects in the future. The previous MURI team also worked on this project and made significant progress, but the source code wasn't available to us and was lost in the process. So, we had to start from scratch. I hope that the next MURI team will be able to build on top of our work and make even more progress on this project. It was a pleasure to engage in research during my freshmen year!
