@@ -26,21 +26,21 @@ Ensure the following software and packages are installed:
 
 ## Project Description and Details 
 
-Under the guidance of Dr. Christian Rogers and Alex Badar, we developed an innovative Augmented Reality platform to assist learners at the 16 Tech Machyne makerspace in understanding complex machinery.
+Under the guidance of Dr. Christian Rogers and Alex Badar, we developed an innovative Augmented Reality platform to assist learners at the 16 Tech Machyne makerspace in understanding and using complex machinery.
 
-Here are the key aspects of the project and our contribution:
+Here are the key aspects of the project and our contributions:
 
-- Comprehensive Research: We began with an extensive study of various AR platforms, evaluating their strengths and limitations. This allowed us to make informed decisions about the platform best suited to our project. Our focus was also on the usability of existing AR platforms in educational settings, a factor which greatly influenced our design decisions.
+- **Comprehensive Research:** We began with an extensive study of various AR platforms, evaluating their strengths and limitations. This allowed us to make informed decisions about the platform best suited to our project. Our focus was also on the usability of existing AR platforms in educational settings, a factor which greatly influenced our design decisions.
 
-- Unity3D and AR Foundation: Our project was developed using Unity3D and the AR Foundation package, enabling us to build the AR application for both Android and iOS devices, leveraging ARCore and ARKit respectively.
+- **Unity3D and AR Foundation:** Our project was developed using Unity3D and the AR Foundation package, enabling us to build the AR application for both Android and iOS devices, leveraging ARCore and ARKit respectively.
 
-- Implementation of Quiz and Image Detection Features: The software team was responsible for implementing the quiz and image detection functionalities of the AR application. The Unity UI system was used to create the quiz feature, while the image detection was enabled by the AR Foundation package.
+- **Implementation of Quiz and Image Detection Features:** The software team was responsible for implementing the quiz and image detection functionalities of the AR application. The Unity UI system was used to create the quiz feature, while the image detection was enabled by the AR Foundation package.
 
-- User Interface Development: We created an AR-responsive user interface, featuring text, buttons, and panels. These elements were projected in the AR space via the AR Camera, fine-tuned for an optimal user experience.
+- **User Interface Development:** We created an AR-responsive user interface, featuring text, buttons, and panels. These elements were projected in the AR space via the AR Camera, fine-tuned for an optimal user experience.
 
-- Application Testing: Extensive testing of the application was conducted on Android and iOS devices to ensure consistent performance across platforms. This involved addressing common build errors and managing app signing with a personal development team.
+- **Application Testing:** Extensive testing of the application was conducted on Android and iOS devices to ensure consistent performance across platforms. This involved addressing common build errors and managing app signing.
 
-- Gameplay Logic Implementation: Using C# scripts in Unity, we implemented the logic for the Quiz application and Image detection. This included the display of questions, verification of answers, scoring mechanisms, and procedures for ending the game.
+- **Logic Implementation:** Using C# scripts in Unity, we implemented the logic for the Quiz application and Image detection. This included the display of questions, verification of answers, scoring mechanisms, and procedures for ending the quiz.
 
 ## Video Demonstration of Quiz Aspect 
 ![Alt text](media/Quiz.mov)
@@ -53,4 +53,4 @@ Here are the key aspects of the project and our contribution:
 
 ![Alt text](media/Research_Poster1024_1.png)
 
-This was my first time working on an AR project, and I had a lot of fun working on it. I learned a lot about AR, and I hope to work on more AR projects in the future. The previous MURI team also worked on this project and made significant progress, but the source code wasn't available to us and lost in the process. So, we had to start from scratch. I hope that the next MURI team will be able to build on top of our work and make even more progress on this project. 
+This was my first time working on an AR project, and I had a lot of fun working on it. I learned a lot about AR, and I hope to work on more AR projects in the future. The previous MURI team also worked on this project and made significant progress, but the source code wasn't available to us and was lost in the process. So, we had to start from scratch. I hope that the next MURI team will be able to build on top of our work and make even more progress on this project. 
