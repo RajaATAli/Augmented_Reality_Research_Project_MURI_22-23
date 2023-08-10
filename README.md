@@ -13,7 +13,7 @@
 
 ## Introduction
 
-As part of a multidisciplinary team, including Nikhil Anand Dhoka, Faiza Mukhtar, Sarah Papabathini, Sevinch Pasilova, and Jonathan Taylor, we undertook an Augmented Reality Research Project in collaboration with the Machyne Makerspace in Indianapolis, Indiana, USA. Our participation was facilitated through the Multidisciplinary Undergraduate Research Institute (MURI). The team was split into two sub-teams, focusing on Hardware and Software aspects of the project. My contribution was primarily within the Software team. The project duration was from October 2022 to April 2023.
+As part of a multidisciplinary team, including Raja Allmdar Tariq Ali, Nikhil Anand Dhoka, Faiza Mukhtar, Sarah Papabathini, Sevinch Pasilova, and Jonathan Taylor, we undertook an Augmented Reality Research Project in collaboration with the Machyne Makerspace in Indianapolis, Indiana, USA. Our participation was facilitated through the Multidisciplinary Undergraduate Research Institute (MURI). The team was split into two sub-teams, focusing on Hardware and Software aspects of the project. My contribution was primarily within the Software team. The project duration was from October 2022 to April 2023.
 
 ## Requirements
 
