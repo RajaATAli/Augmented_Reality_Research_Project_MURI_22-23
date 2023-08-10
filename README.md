@@ -59,4 +59,4 @@ https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/asset
 
 ![Alt text](media/Research_Poster1024_1.png)
 
-This was my first time working on an AR project and a research project, and I had a lot of fun. I learned a lot about AR, and I hope to work on more AR projects in the future. The previous MURI team also worked on this project and made significant progress, but the source code wasn't available to us and was lost in the process. So, we had to start from scratch. I hope that the next MURI team will be able to build on top of our work and make even more progress on this project. It was a pleasure to engage in research during my freshmen year!
+This was our first time working on an AR project and a research project, and we had a lot of fun. We learned a lot about AR, and we hope to work on more AR projects in the future. The previous MURI team also worked on this project and made significant progress, but the source code wasn't available to us and was lost in the process. So, we had to start from scratch. I hope that the next MURI team will be able to build on top of our work and make even more progress on this project.
