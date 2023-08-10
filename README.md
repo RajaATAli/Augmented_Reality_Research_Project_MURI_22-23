@@ -43,9 +43,10 @@ Here are the key aspects of the project and our contributions:
 - **Logic Implementation:** Using C# scripts in Unity, we implemented the logic for the Quiz application and Image detection. This included the display of questions, verification of answers, scoring mechanisms, and procedures for ending the quiz.
 
 ## Video Demonstration of Quiz Aspect
-![Vid Quiz](media/Quiz.mp4)
 
-https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/76918821/2cfbce47-615f-4c23-a47c-a2798cae943a
+https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/112824611/7d98e9d8-9864-4133-ac81-a5d9596d3df0
+
+earch_Project_MURI_22-23/assets/76918821/2cfbce47-615f-4c23-a47c-a2798cae943a
  
 
 ## Video Demonstration of Image Detection Aspect
