@@ -46,13 +46,13 @@ Here are the key aspects of the project and our contributions:
 
 https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/112824611/7d98e9d8-9864-4133-ac81-a5d9596d3df0
 
-earch_Project_MURI_22-23/assets/76918821/2cfbce47-615f-4c23-a47c-a2798cae943a
  
 
 ## Video Demonstration of Image Detection Aspect
-![Vid Detect](media/Image_detection_demonstration.mp4)
 
-https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/76918821/051dc6e8-7143-4725-976e-c956f4d78fb7
+
+https://github.com/RajaATAli/Augmented_Reality_Research_Project_MURI_22-23/assets/112824611/f6b4567d-aeb2-4ed2-a709-2761075f77b3
+
 
 
 
